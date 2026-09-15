@@ -91,6 +91,6 @@ module_init(rust_null_init);
 module_exit(rust_null_exit);
 
 MODULE_LICENSE("GPL");
-MODULE_AUTHOR("evie <evie@hareai.dev>");
+MODULE_AUTHOR("evie <evie@lilt.me>");
 MODULE_DESCRIPTION("misc device with the /dev/null I/O contract");
 MODULE_VERSION("0.1.0");
