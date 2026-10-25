@@ -7,7 +7,7 @@ Linux `/dev/null` 的用户态模型，目标是做成 Rust-for-Linux 的 `/dev/
 ## 快速开始
 
 ```bash
-git clone https://github.com/eduet/rust-null.git
+git clone https://github.com/aiduet/rust-null.git
 cd rust-null
 cargo test
 echo hello | cargo run --example discard

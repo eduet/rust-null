@@ -7,7 +7,7 @@ A userspace model of Linux `/dev/null`, on the way to a Rust-for-Linux `/dev/rus
 ## Quick start
 
 ```bash
-git clone https://github.com/eduet/rust-null.git
+git clone https://github.com/aiduet/rust-null.git
 cd rust-null
 cargo test
 echo hello | cargo run --example discard
